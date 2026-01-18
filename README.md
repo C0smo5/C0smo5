@@ -1,12 +1,13 @@
 # João Arroio💻
-**`Desenvolvedor Full Stack`**
+
+**`Desenvolvedor FullStack`**
 
 Me chamo João, sou estudante de Engenharia de Software, com formação técnica em Desenvolvimento de Sistemas. Possuo experiência prática em Python, APIs REST, visão computacional e integração entre sistemas, além de conhecimentos em HTML, CSS e JavaScript. Participei do "[Projeto Occhio](https://projeto-occhio.com.br)", uma startup premiada, atuando como desenvolvedor de IA. Sempre em busca de aprendizado contínuo e evolução na área de tecnologia.
 
+
 ---
-### 👩‍💻Linguagens e Tecnologias
 
-
+### 🤖 Linguagens e Tecnologias
 
 <img
 align="left"
@@ -94,21 +95,24 @@ style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 
 <br/>
-<br/>          
-          
-### Estatisticas
+<br/>
 
-<img
-align="left"
-alt="Github Status"
-height="200px"
-style="padding-right: 10px"  
-src="https://github-readme-stats.vercel.app/api?username=C0smo5&show_icons=true&theme=tokyonight&include_all_commits=true" 
-/>
+### 📊 Estatísticas
 
-<img
-align="left"
-alt="Github Status"
-height="170px" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0smo5&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
-/>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=C0smo5&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0smo5&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
